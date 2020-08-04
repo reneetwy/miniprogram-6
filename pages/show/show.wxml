@@ -1,0 +1,12 @@
+<view>
+
+  <view>{{restaurant.name}}</view>
+  <view>{{restaurant.address}}</view>
+
+<form>
+  <textarea></textarea> 
+  <button type="primary"formType="submit">Submit</button>
+</form>
+
+
+</view>

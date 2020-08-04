@@ -1,0 +1,3 @@
+<view class="card-product" bindtap="goToShow" wx:for="{{restaurants}}" wx:for-item="item" data-id="{{item.id}}">
+  <view>{{item.name}}</view>
+</view>
